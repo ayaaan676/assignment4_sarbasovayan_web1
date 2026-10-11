@@ -20,21 +20,25 @@ The project contains five tasks. Each task focuses on different form elements, s
 Created a basic contact form with input fields for user information. The form demonstrates the use of HTML form elements and labels.
 
 ![Task 0](screenshots/2026-10-11_17-39-34.png)
+
 ### Task 1 — HTML5 Form Validation
 
 Added HTML5 validation attributes such as `required`, `type="email"`, and `minlength`. These attributes help check user input before submitting the form.
 
-![Task 0](screenshots/2026-10-11_17-40-07.png)
+![Task 1](screenshots/2026-10-11_17-40-07.png)
+
 ### Task 2 — Bootstrap Form Styling
 
 Used Bootstrap to improve the appearance and layout of the forms. Bootstrap classes help create clean and responsive forms.
 
-![Task 0](screenshots/2026-10-11_17-40-35.png)
+![Task 2](screenshots/2026-10-11_17-40-35.png)
+
 ### Task 3 — Bootstrap Validation Feedback
 
 Implemented validation feedback to show users when their input is valid or invalid. This helps users understand and correct mistakes in the form.
 
-![Task 0](screenshots/2026-10-11_17-41-04.png)
+![Task 3](screenshots/2026-10-11_17-41-04.png)
+
 ### Task 4 — Advanced Registration Form
 
 Created an advanced registration form with multiple input types, including:
@@ -46,9 +50,9 @@ Created an advanced registration form with multiple input types, including:
 - Country selection
 - Submit and reset buttons
 
-![Task 0](screenshots/2026-10-11_17-42-01.png)
-JavaScript is used to check the form data and password confirmation. Validation messages help users complete the form correctly.
+![Task 4](screenshots/2026-10-11_17-42-01.png)
 
+JavaScript is used to check the form data and password confirmation. Validation messages help users complete the form correctly.
 ## 3. Project Structure
 
 ```text
